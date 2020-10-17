@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoukikNaik&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Loukik's github stats](https://github-readme-stats.vercel.app/api?username=LoukikNaik&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Loukik's github stats](https://github-readme-stats.vercel.app/api?username=LoukikNaik&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LoukikNaik/LoukikNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
