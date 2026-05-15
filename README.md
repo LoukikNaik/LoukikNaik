@@ -17,6 +17,7 @@ Models are one piece. The hard part is orchestration, reliability, evaluation, m
 | | |
 |---|---|
 | **AI agents** | [ColdBound](https://github.com/LoukikNaik/ColdBound) -- AI-powered outreach platform: find people, research them, draft personalized messages from a single prompt. |
+| | [PodClipper](https://github.com/LoukikNaik/PodClipper) ([Live](https://podclipper.loukik.dev/)) -- Local-first pipeline for turning long-form videos into vertical reels with transcription, AI clip selection, smart cropping, and subtitles. |
 | | [reelforge](https://github.com/LoukikNaik/reelforge) -- Multi-agent AI video editor that turns long-form videos into viral short-form reels. |
 | | [Synapse](https://github.com/LoukikNaik/Synapse) -- Spaced repetition for decision-making. Turns any book, video, or topic into scenario-based flashcards that test judgment. |
 | **ML** | [F1-Prediction-Engine](https://github.com/LoukikNaik/F1-Prediction-Engine) -- Ensemble models, Monte Carlo simulations, and live race tracking for F1 predictions. |
