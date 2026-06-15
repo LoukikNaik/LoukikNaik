@@ -16,7 +16,8 @@ Models are one piece. The hard part is orchestration, reliability, evaluation, m
 
 | | |
 |---|---|
-| **AI agents** | [DraftIn](https://github.com/LoukikNaik/DraftIn) ([Live](https://draftin.loukik.dev/)) -- Keyboard-driven LinkedIn reach-out drafter. Alt+L on any LinkedIn page captures the viewport and drops a personalized message on the clipboard. Routes through my ChatGPT subscription via a local browser-driven CLI, so no paid API key. |
+| **AI agents** | [Verdict](https://github.com/LoukikNaik/verdict) ([Live](https://verdict.loukik.dev/)) -- Synthetic market research agent. Roleplays a panel of synthetic personas reacting to a product, scores 1–5 purchase intent via Claude, fetches live market context with web_search, clusters themes, and writes an executive brief with Claude Opus. Multi-turn interviews, A/B variant compare, per-sim token + cost observability. |
+| | [DraftIn](https://github.com/LoukikNaik/DraftIn) ([Live](https://draftin.loukik.dev/)) -- Keyboard-driven LinkedIn reach-out drafter. Alt+L on any LinkedIn page captures the viewport and drops a personalized message on the clipboard. Routes through my ChatGPT subscription via a local browser-driven CLI, so no paid API key. |
 | | [PodClipper](https://github.com/LoukikNaik/PodClipper) ([Live](https://podclipper.loukik.dev/)) -- Local-first pipeline for turning long-form videos into vertical reels with transcription, AI clip selection, smart cropping, and subtitles. |
 | | [reelforge](https://github.com/LoukikNaik/reelforge) -- Multi-agent AI video editor that turns long-form videos into viral short-form reels. |
 | | [Synapse](https://github.com/LoukikNaik/Synapse) -- Spaced repetition for decision-making. Turns any book, video, or topic into scenario-based flashcards that test judgment. |
