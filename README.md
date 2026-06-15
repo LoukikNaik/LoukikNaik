@@ -14,16 +14,16 @@ Models are one piece. The hard part is orchestration, reliability, evaluation, m
 
 ## Selected projects
 
-| | |
-|---|---|
-| **AI agents** | [Verdict](https://github.com/LoukikNaik/verdict) ([Live](https://verdict.loukik.dev/)) -- What if you could run a focus group in 90 seconds? Claude personas react to your product, 1–5 purchase intent rolls in, web-search adds live market context, and an exec brief drops at the end. [Browse real runs](https://verdict.loukik.dev/) — see what 200 to 2,000 random buyers think about your product before you ship. Inspired by [LLMs Reproduce Purchase Intent](https://arxiv.org/abs/2510.08338) (PyMC × Colgate, 2025). |
-| | [DraftIn](https://github.com/LoukikNaik/DraftIn) ([Live](https://draftin.loukik.dev/)) -- Keyboard-driven LinkedIn reach-out drafter. Alt+L on any LinkedIn page captures the viewport and drops a personalized message on the clipboard. Routes through my ChatGPT subscription via a local browser-driven CLI, so no paid API key. |
-| | [PodClipper](https://github.com/LoukikNaik/PodClipper) ([Live](https://podclipper.loukik.dev/)) -- Local-first pipeline for turning long-form videos into vertical reels with transcription, AI clip selection, smart cropping, and subtitles. |
-| | [reelforge](https://github.com/LoukikNaik/reelforge) -- Multi-agent AI video editor that turns long-form videos into viral short-form reels. |
-| | [Synapse](https://github.com/LoukikNaik/Synapse) -- Spaced repetition for decision-making. Turns any book, video, or topic into scenario-based flashcards that test judgment. |
-| | [ColdBound](https://github.com/LoukikNaik/ColdBound) -- AI-powered outreach platform: find people, research them, draft personalized messages from a single prompt. |
-| **ML** | [F1-Prediction-Engine](https://github.com/LoukikNaik/F1-Prediction-Engine) -- Ensemble models, Monte Carlo simulations, and live race tracking for F1 predictions. |
-| **Systems** | [Surfstore](https://github.com/LoukikNaik/Surfstore-Distributed-File-Storage-System) -- Distributed file storage with Raft consensus, gRPC, and horizontal scaling in Go. |
+| Section | Project | Description |
+|---|---|---|
+| **AI agents** | [Verdict](https://github.com/LoukikNaik/verdict) ([Live](https://verdict.loukik.dev/)) | What if you could run a focus group in 90 seconds? Claude personas react to your product, 1–5 purchase intent rolls in, web-search adds live market context, and an exec brief drops at the end. [Browse real runs](https://verdict.loukik.dev/) — see what 200 to 2,000 random buyers think about your product before you ship. Inspired by [LLMs Reproduce Purchase Intent](https://arxiv.org/abs/2510.08338) (PyMC × Colgate, 2025). |
+| | [DraftIn](https://github.com/LoukikNaik/DraftIn) ([Live](https://draftin.loukik.dev/)) | Keyboard-driven LinkedIn reach-out drafter. Alt+L on any LinkedIn page captures the viewport and drops a personalized message on the clipboard. Routes through my ChatGPT subscription via a local browser-driven CLI, so no paid API key. |
+| | [PodClipper](https://github.com/LoukikNaik/PodClipper) ([Live](https://podclipper.loukik.dev/)) | Local-first pipeline for turning long-form videos into vertical reels with transcription, AI clip selection, smart cropping, and subtitles. |
+| | [reelforge](https://github.com/LoukikNaik/reelforge) | Multi-agent AI video editor that turns long-form videos into viral short-form reels. |
+| | [Synapse](https://github.com/LoukikNaik/Synapse) | Spaced repetition for decision-making. Turns any book, video, or topic into scenario-based flashcards that test judgment. |
+| | [ColdBound](https://github.com/LoukikNaik/ColdBound) | AI-powered outreach platform: find people, research them, draft personalized messages from a single prompt. |
+| **ML** | [F1-Prediction-Engine](https://github.com/LoukikNaik/F1-Prediction-Engine) | Ensemble models, Monte Carlo simulations, and live race tracking for F1 predictions. |
+| **Systems** | [Surfstore](https://github.com/LoukikNaik/Surfstore-Distributed-File-Storage-System) | Distributed file storage with Raft consensus, gRPC, and horizontal scaling in Go. |
 
 ## Engineering taste
 
